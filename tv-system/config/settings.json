@@ -2,5 +2,9 @@
   "resolution": "480p",
   "wifi_page_enabled": true,
   "webui_port": 5000,
-  "jra_check_interval_sec": 60
+  "jra_check_interval_sec": 60,
+  "shutdown_hour": 1,
+  "waiting_image": "program_checking.png",
+  "program_end_image": "program_end.png",
+  "fbi_tty": 1
 }
