@@ -1,0 +1,6 @@
+{
+  "resolution": "480p",
+  "wifi_page_enabled": true,
+  "webui_port": 5000,
+  "jra_check_interval_sec": 60
+}
